@@ -71,4 +71,4 @@ This demo bridges the gap between a basic logic test and a full strategy game.
 Make sure you have **Python 3** installed.
 
 ```bash
-python demo2.py
+python main.py
